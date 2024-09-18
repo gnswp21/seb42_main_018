@@ -2,9 +2,16 @@
 
 ## 소모임 전적 사이트
 
-CodeStates 42기 Main-Project 018
+
+- 🏆 **소모전**은 전적 사이트와 소모임 구하기 서비스가 합쳐진 새로운 서비스입니다.
+- **다양한 카테고리의 모임을 만들고, 경기 내용을 기록**하여 **전적 통계**를 볼 수 있는 웹 어플리케이션입니다.
+- 프론트엔드 **3명**, 백엔드 **3명**이 **협업**하여 제작되었습니다.
+
+
+## CodeStates 42기 Main-Project 018
 - [배포 주소] <https://somojeon.site>
 - [배포 주소] <https://somojeon.vercel.app/>
+  - 서버 배포 종료되었습니다.
 - 프로젝트 기간: 2023.03.03 ~ 2023.03.29
 
 <br>
@@ -38,6 +45,35 @@ CodeStates 42기 Main-Project 018
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/spring mvc-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">  <img src="https://img.shields.io/badge/Spring Data Jpa-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"> <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json web tokens&logoColor=white"> <img src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=Java&logoColor=white">
 <br>
 
+---
+# 개인 README
+## 성과
+
+- **커뮤니티 기능 서비스**
+- **클라우드 환경 구성**: ec2, s3, 코드 디플로이를 통한 자동배포등 다양한 aws 기능 활용
+- **보안 기능 :**  Oauth2와 JWT를 이용한 로그인 기능 구현
+- **협업 능력**: 백엔드 팀장으로서 프론트단과 협력,의견 교류를 통해 프로젝트 조율 및 완성
+
+
+## 역할
+
+- 주요 프로젝트 내용 ( 전적 기록 커뮤니티 사이트 ) 기획
+- **백앤드 팀장**을 담당하여 팀내 개발 내용 통합 및 프론트단과 개발 일정 조율
+- 로그인 및 마이페이지의 **회원 관리 기능** 구현
+- **OAuth2**를 이용한 카카오톡 간편 로그인 구현
+- **JWT**, **Spring Security**로 **보안 및 회원 권한** 관리
+- **Aws**를 이용한 배포 및 서버 관리
+
+## 향상된 역량
+
+- 서버의 운영에 Aws의 EC2를 이용해  클라우드 환경과 Linux에 대한 이해도가 높아졌습니다.
+
+## 느낀점
+
+- 혼자라면 절대 해내지 못 할 규모와 퀄리티의 프로젝트를 완성하여 협업의 중요성에 대해 이해했고, 커뮤니티 능력이 왜 개발자의 필수 덕목인지를 이해할 수 있었습니다.
+
+
+---
 ## 📌 커밋 규칙
 |이름|내용|
 |:--|:--|
